@@ -1,0 +1,1 @@
+export { ImagePrimary } from "./ImagePrimary";
